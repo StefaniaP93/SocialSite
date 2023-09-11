@@ -1,0 +1,48 @@
+{
+  "index.css": {
+    "file": "assets/index-5759fbdf.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "css": [
+      "assets/index-5759fbdf.css"
+    ],
+    "dynamicImports": [
+      "src/views/QuestionView.vue",
+      "src/views/QuestionEditor.vue"
+    ],
+    "file": "assets/index-612dace3.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/views/QuestionEditor.css": {
+    "file": "assets/QuestionEditor-8eab9457.css",
+    "src": "src/views/QuestionEditor.css"
+  },
+  "src/views/QuestionEditor.vue": {
+    "css": [
+      "assets/QuestionEditor-8eab9457.css"
+    ],
+    "file": "assets/QuestionEditor-2cd8e1d0.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/views/QuestionEditor.vue"
+  },
+  "src/views/QuestionView.css": {
+    "file": "assets/QuestionView-591f4c0a.css",
+    "src": "src/views/QuestionView.css"
+  },
+  "src/views/QuestionView.vue": {
+    "css": [
+      "assets/QuestionView-591f4c0a.css"
+    ],
+    "file": "assets/QuestionView-3574a6a4.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/views/QuestionView.vue"
+  }
+}
